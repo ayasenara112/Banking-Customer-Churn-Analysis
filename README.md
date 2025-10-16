@@ -34,8 +34,8 @@ The Power BI report consists of several pages that provide a full view of custom
 - **Credit Insights Page** – Customer segmentation based on credit score groups  
 - **Churn Details Page** – Deep analysis of churned vs retained customers with filters for age, income, and region  
 
-![Dashboard Screenshot 1](banking%20report.png)  
-![Dashboard Screenshot 2](banking%20report2.png)
+![Dashboard Screenshot 1](images/banking%20report.png)  
+![Dashboard Screenshot 2](images/banking%20report2.png)
 
 ---
 
