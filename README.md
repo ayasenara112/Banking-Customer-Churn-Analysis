@@ -87,4 +87,4 @@ This project demonstrates strong capabilities in:
 ## 🔗 Author
 **Aya Gamal**  
 Data Analyst | Power BI | SQL | Python | Excel  
-[[LinkedIn](www.linkedin.com/in/aya-gamal-senara)
+[[LinkedIn](www.linkedin.com/in/aya-gamal-senara)]
